@@ -1,5 +1,5 @@
 .vivek{
-    background-color: lightgray;
+    background-color: rgb(102, 62, 62);
     padding: 20px;
     margin: 10px;
     height: 100px;
@@ -8,7 +8,7 @@
 
 }
 .container{
-    background-color: lightblue;
+    background-color: rgb(67, 109, 123);
     padding: 20px;
     margin: 10px;
     height: 100px;
